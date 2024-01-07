@@ -7,8 +7,11 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=VladislavShatilo&theme=dark" alt="GitHub Streak" /></a>
 <p align="left">
 </p>
+
 ## ⚙️Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladislavShatilo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavShatilo&show_icons=true&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,4 +19,5 @@
 
 
 ## ⚡Activity
-[![GitHub Streak](https://streak-stats.demolab.com/?user=VladislavShatilo &theme=dark)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VladislavShatilo&theme=solarized_dark)
